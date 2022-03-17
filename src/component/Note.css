@@ -28,9 +28,11 @@
     position: relative;
 }
 
-.note:hover{
+.note:hover,
+.note.note-focused{
     transform: scale(1.5);
     z-index: 5;
+    box-shadow: rgba(0,0,0,0.56) 0px 22px 70px 4px;
 }
 
 .note_text {

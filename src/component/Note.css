@@ -22,7 +22,7 @@
 }
 
 .note:nth-child(3n){
-    background-color: #ff73b9;
+    background-color: #77bf49;
     transform: rotate(-3deg);
     top: -5px;
     position: relative;
